@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mariadb://localhost/first_project
+    username: green1
+    password: 1212
